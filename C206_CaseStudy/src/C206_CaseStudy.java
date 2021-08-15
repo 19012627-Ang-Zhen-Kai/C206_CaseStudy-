@@ -6,7 +6,7 @@ public class C206_CaseStudy {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		appointmentList.add(new Appointment("John Smith","12/8/2021"));
 	}
 	
 	
